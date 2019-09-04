@@ -52,22 +52,22 @@ function copyTxt2() {
 
 function showInternalNotes() {
   let combined1 = [descriptionArea, copyBtn1]
-  combined1.forEach(function(e) {
+  combined1.forEach(function (e) {
     e.classList.add('invisible')
   })
   let combined2 = [internalNotesArea, copyBtn2]
-  combined2.forEach(function(e) {
+  combined2.forEach(function (e) {
     e.classList.remove('invisible')
   })
 }
 
 function showDescription() {
   let combined1 = [descriptionArea, copyBtn1]
-  combined1.forEach(function(e) {
+  combined1.forEach(function (e) {
     e.classList.remove('invisible')
   })
   let combined2 = [internalNotesArea, copyBtn2]
-  combined2.forEach(function(e) {
+  combined2.forEach(function (e) {
     e.classList.add('invisible')
   })
 }
@@ -75,3 +75,7 @@ function showDescription() {
 function reloadPage() {
   location.reload();
 }
+
+$(document).ready(function () {
+  $('#lookups').load('./source.xml')
+})
