@@ -70,3 +70,7 @@ textarea {
 .invisible {
   display: none;
 }
+
+#route-to-team {
+  display: grid;
+}

@@ -1,0 +1,119 @@
+<p id="r1">
+
+</p>
+<p id="r2">
+Your feedback is required on the open items below before work can continue on this request.
+
+Please provide this information as soon as possible so we can complete your request in a timely manner.
+</p>
+<p id="r3">
+To best serve your request and advance it for completion, more details are required. We have not received feedback from our recent follow ups.
+
+Please advise if you still require completion of this ticket. If you no longer require this ticket or if a feedback is not received, our next action is to resolve this after 24 hours.
+</p>
+<p id="r4">
+We have reviewed your request. In order to advance it, a Direct Supervisor approval is required.
+
+Kindly attach it to this ticket or send it directly to our email below mentioning the ticket number for this request.
+</p>
+<p id="r5">
+In our effort to assist you, we have made multiple (3+) attempts to secure the information required to complete your request. This ticket will be closed due to lack of actionable information.
+
+When the information becomes available, you may either request to reopen this ticket or submit a new request once the required information is available.
+</p>
+<p id="r6">
+The work to support this request has been confirmed as completed successfully. This ticket will now be closed.
+</p>
+<p id="r7">
+To further assist you, we require that the computer's name and the cube/extenstion/station number be provided, in addition to the information already shared.
+
+Please provide this information as soon as possible, so we can address your concern in a timely manner.
+</p>
+<p id="r8">
+Your request for an application change has been received.
+
+This application is actually owned and managed by the client and we (CGS IT) do not have a way to initiate change orders for client owned tools.
+
+Please contact your client support team with this request. This request will be closed unless you can provide further information that shows CGS owns this tool.
+</p>
+<p id="r9">
+Your request to have a profile modified has been reviewed. The following information is required before we can process the request:
+
+NT Login:
+Employee ID:
+Business Reason:
+Manager/Director's Approval:
+Profile to Mirror:
+</p>
+<p id="r10">
+Due to security concerns, all drive share requests require the following information. Please reply back with this information so we can provide your VPN access in a timely manner.
+
+User Name:
+Type of access (Read or Edit):
+Business Reason:
+Full Path to the file location:
+Director/Manager Approval (Attach):
+
+NOTE: If you need help identifying the full path, you can check with IT Site Support or call the ITOC Service Desk at the contact information below.
+</p>
+<p id="r11">
+If this issue is service impacting and impairing/preventing you or your team's ability to serve our customers, please call the ITOC Service Desk at the contact informatin below. Otherwise, this request will be treated as non-production impacting and routed to our normal service queue.
+</p>
+<p id="r12">
+Your request has been forwarded to the <span id="insertTeam"></span> team. These requests are completed within 3 business days to process, once all required information has been received.
+
+We appreciate your understanding and feel free to call the ITOC Service Desk to assist if your request requires an escalated response.
+</p>
+<p id="r13">
+SharePoint (SP) access is managed by the specific site administrators. You will need to reach out directly to the SP admin for access. For most SP pages, if you attempt to access the page without permissions, there is a "Request Access" prompt. This will send a message to the site administrator notifying them of your access request. No additional ticket is required.
+</p>
+<p id="r14">
+The following information is required for software installation requests:
+
+Employee(s) Name:
+Software Required (version required):
+Business Reason:
+Managing Director's Approval:
+Accounting Unit:
+</p>
+<p id="r15">
+Your request has been advanced to Security and Compliance team for review and approval. Once approved, this request will be processed by our Account Administration team.
+
+We appreciate your understanding and feel free to call the ITOC Service Desk at the contact information below to receive an update on your request.
+</p>
+<p id="r16">
+To better assist you, we need the following information the soonest possible:
+
+Have cache/cookies been cleared?
+Have the computers impacted been rebooted?
+Has the user been able to access this site in the past?
+Has the user been able to test on other working computers?
+Please provide a list of the user names & computer names impacted.
+Please provide a screenshot of the error message.
+</p>
+<p id="r17">
+Due to security concerns, all VPN requests require the following information. Please reply back with this information so we can provide your VPN access in a timely manner.
+
+User Name:
+Laptop Name:
+Request Submitted by:
+Manager's Name:
+Director/Manager Approval (Attach):
+Description of need for VPN access:
+
+NOTE: If you do not know or could not find your laptop's name, you may seek assistance from your Local IT Support or call the ITOC Service Desk at the contact information below. 
+</p>
+<p id="r18">
+Your request for a password reset has been received, however, in compliance with password security, these requests must be resolved live, over the phone.
+
+Please call the ITOC Service Desk via the information below or reply with a time that is convenient for you and one of our Technicians will call you at the number you provide. We will need your full name and employee ID in order to process this request.
+</p>
+<p id="r19">
+NT has been reset/unlocked. Kindly let us know if you have any questions or inquiries.
+</p>
+<p id="n0"></p>
+<p id="n1">**employee verified**</p>
+<p id="n2">Requester:
+Employee Verified:
+Verification Method:
+NT Login: </p>
